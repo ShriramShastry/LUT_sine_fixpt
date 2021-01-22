@@ -1,0 +1,1 @@
+MODEL=drc_sin_fixpt
