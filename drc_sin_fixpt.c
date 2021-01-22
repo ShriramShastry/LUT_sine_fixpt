@@ -18,7 +18,7 @@
 
 
 /* Variable Definitions */
-#define DEBUG_ON 1 
+#define DEBUG_ON 0 
 #ifdef DEBUG_ON
 static int16_t FI_SIN_COS_LUT[256];
 #else
